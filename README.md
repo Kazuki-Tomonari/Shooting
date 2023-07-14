@@ -27,4 +27,8 @@ Kotlinを使用したAndroidで動作するシューティングゲームです�
 ## プレイ動画
 シューティングゲームをプレイした動画です。
 
-https://github.com/b-forme-tomonari/Shooting/assets/106940016/af110e5e-7dc4-44cd-918d-95a6e3c1e1b1
+https://github.com/Kazuki-Tomonari/Shooting/assets/28209317/59ccc970-46f6-4fbd-b91f-13d9ab2dbeb3
+
+
+
+
